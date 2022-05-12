@@ -1,0 +1,46 @@
+
+{
+    "Hotels":
+    [
+    {
+        "Name": "A2B",
+        "roomCount:": "20",
+        "price": "4000",
+        "Location": "Basavakalyan",
+        "city": "basava",
+        "state": "karnataka",
+        "CheckIn": "10/03/2021" ,
+        "CheckOut": "10/05/2021 ",
+        "FreeInternet": "yes",
+        "Air Condition": " yes",
+        "Doctors on call": "yes"
+    },
+    {
+        "Name": "Kamat",
+        "roomCount:": "50",
+        "price": "8000",
+        "Location": "pune",
+        "city": "pune",
+        "state": "Maharastra",
+        "CheckIn": "07/08/2021",
+        "CheckOut": "07/10/2021",
+        "FreeInternet": "yes",
+        "Air Condition": " yes",
+        "Doctors on call": "yes"
+    },
+    {
+        "Name": "Sayi",
+        "roomCount:": "30",
+        "price": "5000",
+        "Location": "Bandra",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "CheckIn": "05/04/2021",
+        "CheckOut": "05/06/2021",
+        "FreeInternet": "yes",
+        "Air Condition": " yes",
+        "Doctors on call": "yes"
+    }
+    
+]
+}
